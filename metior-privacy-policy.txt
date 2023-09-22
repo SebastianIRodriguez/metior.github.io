@@ -1,0 +1,26 @@
+Privacy policy (Metior App)
+===========================
+
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the App.
+
+By using the App, You agree to the collection and use of information in accordance with this Privacy Policy. 
+
+We only collect your Usage Data of our App (which app features you use, how much time you spend in each screen, etc).
+We may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to improve our App. 
+We also use Admob and Mopub Ad Services.
+These third party service providers have their own privacy policies addressing how they use such information.
+
+We will not share any information we collect with other third parties.
+
+
+Changes to this Privacy Policy
+------------------------------
+Please note that we may change our policies at any time. It is your responsibility to keep up to date with and adhere to the policies posted here.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+
+Contact Us
+----------
+If you have any questions about this Privacy Policy, You can contact us:
+
+By email: metior.ar@gmail.com
